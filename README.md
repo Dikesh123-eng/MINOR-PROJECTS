@@ -19,17 +19,7 @@ Account information display:
 Function to display current account balance.
 Option to view recent transactions. 
 
-                               2.Function OverLoading
-                               
-n C++, function overloading is the ability to define multiple functions with the same name but different parameters. 
-How it works
-The compiler chooses which function to use based on the number and types of arguments passed in. 
-The function call decides which overloaded function to run. 
-Function overloading is a feature of object-oriented programming. 
-Benefits Function overloading makes code more readable and reusable, It helps to improve runtime, It saves memory space, and It makes maintaining and debugging code easier. 
-Example
-You can overload a function named "print" to display different types, like int, double, and char*. 
-You can overload a function named "addPodium" to add different types of numbers. 
-Function overloading vs. function overriding
-Function overloading is different from function overriding, which is when a derived class redefines a function of the base class. 
+                                                2.Constructor Overloading
 
+  Constructor overloading in C++ is a feature that allows a class to have multiple constructors with different parameter lists. Each constructor can have a different number or type of parameters, enabling objects of the class to be initialized in various ways depending on the provided arguments.
+                               
